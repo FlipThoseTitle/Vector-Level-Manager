@@ -1,0 +1,11 @@
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\bin\Release\VectorLevelManager.exe.config
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\bin\Release\VectorLevelManager.exe
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\bin\Release\VectorLevelManager.pdb
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Release\VectorLevelManager.csproj.AssemblyReference.cache
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Release\VectorLevelManager.ProgressForm.resources
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Release\VectorLevelManager.MainWindow.resources
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Release\VectorLevelManager.Properties.Resources.resources
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Release\VectorLevelManager.csproj.GenerateResource.cache
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Release\VectorLevelManager.csproj.CoreCompileInputs.cache
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Release\VectorLevelManager.exe
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Release\VectorLevelManager.pdb

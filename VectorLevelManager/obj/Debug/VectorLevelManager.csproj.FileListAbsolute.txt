@@ -1,0 +1,11 @@
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\bin\Debug\VectorLevelManager.exe.config
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\bin\Debug\VectorLevelManager.exe
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\bin\Debug\VectorLevelManager.pdb
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Debug\VectorLevelManager.csproj.AssemblyReference.cache
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Debug\VectorLevelManager.ProgressForm.resources
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Debug\VectorLevelManager.MainWindow.resources
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Debug\VectorLevelManager.Properties.Resources.resources
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Debug\VectorLevelManager.csproj.GenerateResource.cache
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Debug\VectorLevelManager.csproj.CoreCompileInputs.cache
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Debug\VectorLevelManager.exe
+C:\Users\senwi\Documents\Visual Studio Project\Vector Level Manager\VectorLevelManager\VectorLevelManager\obj\Debug\VectorLevelManager.pdb
